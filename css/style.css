@@ -1,0 +1,162 @@
+header{
+	position:fixed;
+	width:100%;
+	z-index:1;
+	}
+.bg-img{
+	background-image:url(../Images/project/intro.jpg);
+	height:1000px;
+	background-position:center;
+	background-size:cover;
+	width:100%;
+	}
+	
+.blk-lyr{
+	background-color:rgba(0,0,0,0.6);
+	height:100%;
+	}
+	
+.float{
+	float:right;
+	margin:20px;
+	padding:10px;
+	}
+	
+li{
+	padding:5px;
+	}
+	
+.clr{
+	color:rgba(255,255,255,1);
+	}
+	
+li a:hover{
+	color:rgba(255,255,255,1);
+	border-bottom:solid;
+	border-bottom-width:thin;
+}
+
+
+.pos-fix{
+	position:fixed;
+	z-index:99;
+	}
+	
+.txt{
+	margin:100px;
+	}
+	
+.pos-img{
+	 position:relative;
+	 top:250px;
+	 
+	}
+	
+.head-1{
+	margin:0px;
+	padding:0px;
+	color:rgba(255,255,255,1);
+	font-family:"Times New Roman", Times, serif;
+	font-size:100px;
+	}
+	
+.head-2{
+	margin-top:50px;
+	margin-bottom:50px;
+	text-align:center;
+	font-size:50px;
+	}
+	
+.row-margin{
+	margin-top:50px;
+	}
+	
+.row-margin-1{
+	margin-top:50px;
+	margin-bottom:50px;
+	}
+	
+.bg-grey{
+	background-color:rgba(204,204,204,0.5);
+	}
+	
+.bg-img-1{
+	background-image:url(../Images/cocoen/before_6.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	height:450px;
+	background-position:center;
+	}
+	
+.bg-img-2{
+	background-image:url(../Images/cocoen/before_7.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	height:450px;
+	background-position:center;
+	}
+	
+.para-box{
+	width:100%;
+	text-align:center;
+	}
+	
+.para-1{
+	font-size:xx-large;
+	margin-bottom:0px;
+	padding-bottom:10px;
+	}
+	
+.cont-para{
+	text-align:center;
+	font-size:x-large;
+	margin-bottom:0px;
+	}
+	
+.cont-para-0{
+	margin-top:0px;
+	text-align:center;
+	font-size:x-large;
+	}
+	
+.con-form{
+	width:47%;
+	height:50px;
+	padding:10px;
+	margin-bottom:10px;
+	margin-right:13px;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	background-color:rgba(204,204,204,0);
+	outline:none;
+	}
+	
+.con-form-m{
+	width:97%;
+	height:100px;
+	padding:10px;
+	margin-bottom:10px;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	background-color:rgba(204,204,204,0);
+	outline:none;
+	resize:none;
+	}
+	
+.bg-img-3{
+	background-image:url(../Images/project/pexels-photo-390659.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	height:450px;
+	background-position:center;
+	}
+	
+footer{
+	padding-bottom:20px;
+	}
+	
+footer p{
+	color:rgba(255,255,255,1);
+	}
